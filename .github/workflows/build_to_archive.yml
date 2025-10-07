@@ -2,7 +2,7 @@ name: Build CloudStream Plugin
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
